@@ -1,0 +1,17 @@
+DAY 33 - APPLICATION PROGRAMMING INTERFACES
+
+>>An Application Programming Interface(API) is a set of commands,
+functions, protocols, and objects that programmers can use to create software or interact with an external system.
+
+>>API ENDPOINTS AND MAKING API CALLS
+API Request
+
+>>Working with Responses: HTTP Codes, Exceptions & JSON Data
+Response codes:
+1XX: Hold On
+2XX: Here You Go
+3XX: Go Away
+4XX: You Screwed Up
+5XX: I screwed Up
+
+>>API Parameters
